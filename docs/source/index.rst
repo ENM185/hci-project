@@ -10,7 +10,7 @@ Welcome to Lightning-Sharks HCI Term Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   intro
+   proposal
    
 Indices and tables
 ==================
