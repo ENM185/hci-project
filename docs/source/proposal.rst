@@ -62,6 +62,8 @@ Proposed Solutions
 3. Question Queueing System
 	A system for asking question without having others talking over each-other. When you want to ask a question you put your name in the Queue which works like a regular data structure and then it tells you your place in line to ask the question or provide feedback to the instructor.
 
-
+Video Proposal
+***************
+:Video Proposal: `Link to Video Proposal and explanation <https://www.youtube.com/watch?v=gd5LiTz_GJ0>`__
 
 .. [1] A "Click Here" Type Button will appear randomly for a brief period where the student will need to click in order to get attendance credit
