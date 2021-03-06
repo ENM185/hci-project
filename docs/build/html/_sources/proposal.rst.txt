@@ -64,6 +64,6 @@ Proposed Solutions
 
 Video Proposal
 ***************
-:Video Proposal: `Link to Video Proposal and explanation <https://www.youtube.com/watch?v=gd5LiTz_GJ0>`__
+:Video Proposal: `Link to Video Proposal and explanation <https://youtu.be/0G2Vg3iO_Qo>`__
 
 .. [1] A "Click Here" Type Button will appear randomly for a brief period where the student will need to click in order to get attendance credit
