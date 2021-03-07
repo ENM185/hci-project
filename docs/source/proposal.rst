@@ -52,7 +52,7 @@ Proposed Solutions
 ******************
 
 1. Tiered Point System
-	A tiered, points system for participation to keep students engaged during class. The program would give students many options to contribute to the class and reward the students who do all or some of the options. The goal of the program is to incentivize in-class participation through a variety of human-computer solutions that block distractions, keep students involved and encourage challenges. The points can be treated similarly to earned sky miles, where 100 points = 1 extra point on an exam or can be used to drop a quiz. Certain signifiers for this may include a point total for each student at the top of their screen, and attractive animations as they score more points, in order to further afford them an incentive to participate and stay focused.
+	A tiered, points system for participation to keep students engaged during class. The program would afford students with many options to contribute to the class and reward the students who do all or some of the options. The goal of the program is to incentivize in-class participation through a variety of human-computer solutions that block distractions, keep students involved and encourage challenges. The points can be treated similarly to earned sky miles, where 100 points = 1 extra point on an exam or can be used to drop a quiz. Certain signifiers for this may include a point total for each student at the top of their screen, and attractive animations as they score more points, in order to further afford them an incentive to participate and stay focused.
 
 	+---------------------------------+------------+
 	| Action                          | Points     |
@@ -69,12 +69,14 @@ Proposed Solutions
 	+---------------------------------+------------+
 
 2. Anonymous Input Solicitation
-	Create a place where students can submit questions anonymously due to Zoom highlighting their name. This would allow more students who do not want to be in the spotlight to feel more comfortable asking questions over hybrid-asynchronous remote learning. A signifier for this may be an input box (similar to the chat), but with a silhouette with a question mark that represents anonymity. This will afford exactly what it signfiies: the student has the ability to ask a question without embarrassment, as the instructor will be unaware of their identity.
+	Create a place where students can submit questions anonymously due to Zoom highlighting their name. This would afford more students who do not want to be in the spotlight with the ability to feel more comfortable asking questions over hybrid-asynchronous remote learning. A signifier for this may be an input box (similar to the chat), but with a silhouette with a question mark that represents anonymity. This will afford exactly what it signfiies: the student has the ability to ask a question without embarrassment, as the instructor will be unaware of their identity.
 
 	This can be turned into a challenge: ask at least 2 good questions to receive 2 pts 
 
 3. Question Queueing System
 	A system for asking question without having others talking over each-other. When you want to ask a question you put your name in the Queue which works like a regular data structure and then it tells you your place in line to ask the question or provide feedback to the instructor. For the instructor, a good way to signify that new questions are coming in would be to animate the question falling into the end of a list (which also correctly signifies the property that it works as a queue in a first-come, first-serve basis).
+
+ The easiest way to measure success will be based on the actions listed in the tiered point system table, as these all indicate a more engaged and participatory audience. However, we must also request separate feedback from students and instructors through surveys to ensure that the system isn't being cheated (i.e., students are following the above actions for the sake of the actions themselves, without paying attention to the lectures). Part of this survey could include quizzing students over what was presented in the class lesson, in order to see if the inclusion of these tools genuinely helps their understanding of the material.
 
 Video Proposal
 ***************
