@@ -18,7 +18,7 @@ User Experience Requirements
 2. Live Queue
 --------------
 
-:2.1: As a professor, I want to see a queue of questions so that I can make it easier for students virtual and physical to solicit input on class subjects without talking over each other or asking repetitive questions that may arise from inability to properly converse between in-person and virtual-students
+:2.1: As a professor, I want to see a queue of questions so that I can make it easier for students virtual and physical to solicit input on class subjects without talking over each other or asking repetitive questions that may arise from inability to properly converse between in-person and virtual-students.
 
 :2.2: As a Professor, I want each student to be muted until it is their designated time to ask a question, so that they are not all talking over each other trying to get my attention.
 
@@ -29,7 +29,11 @@ User Experience Requirements
 
 :3.1: As a professor, I want to have a dedicated panel (a sort of "landing page" component) for these new options so I can easily enable/disable them and adjust their settings from one place.
 
-All six user stories are essential to the design of the application (TODO: Include sources).
+All six user stories are essential to the design of the application. For the first section of user stories, anonymous questions are essential in allowing all users to participate in the class conversation. While many people have "video anxiety"[1]_, where they have difficulty talking in front of a camera to ask questions, the anonymous questions feature will allow them to participate without putting the students in the spotlight.
+
+The next set of user stories, regarding the live queue, is essential to enabling an organized Zoom meeting. Video chats, especially in large settings such as a class, are often tarnished by common interruptions [2]_, which can be avoided by giving the professor control, where one person speaks at a time. This may also serve to curve gender biases, as women are commonly interrupted during meetings [3]_, which would not happen if everyone is given a reserved time to ask questions. Giving the professor options to mute users will also solve the problem of too much noise entering the chat, which is mostly an issue in larger video chats [4]_.
+
+Finally, the settings panel will give professors the option to actually enable all these features from one place, which is essential to rolling out the new features.
 
 Ideation and Preliminary Designs
 *********************************
@@ -179,18 +183,47 @@ Detailed Designs
 
 2.1: Instructor able to view queue questions
 ------------------------------------------------
+We based this mockup on the third design option (2.1.c), as it is relatively clean and gives instructors (the admins) the most information of all design options. We chose to make the current student's video resemble the existing Zoom video panel, and the students in line resemble the "participants" panel, in order to provide familiarity to instructors. A delete button was also included to remove students from the queue, and to give more autonomy to the instructor.
 
+.. image:: mockups/2_1.png
+    :width: 600
+
+:download:`Download Source File <./mockups/2_1.xd>`.
 
 2.2: Instructor able to set mute options
 ------------------------------------------------
+We chose option 2.2.b for this user story. Giving the professor the option to mute/unmute users increases organization (as discussed earlier), and the unmute all button increases organization. The design was modified to fit in with mockup 2.1, and the "ask to unmute" buttons resemble those currently in Zoom for familiarity reasons.
 
+.. image:: mockups/2_2.png
+    :width: 600
+
+:download:`Download Source File <./mockups/2_2.xd>`.
 
 2.3: Students able to see/enter queue
 --------------------------------------
+Option 2.3.b was chosen for this design, as the first option showed information that was not relevant/pertinent for the student to know (which students were in the queue). Also, this was moved to be a panel under the chat (as is done in the professor view), so that the component would not obstruct the main part of the screen. Finally, a box was added in for users to type in a topic when they are in the queue, in order to work with the design option chosen for 2.1.
 
+.. image:: mockups/2_3.png
+    :width: 600
+
+:download:`Download Source File <./mockups/2_3.xd>`.
 
 3.1: Instructor Settings
 --------------------------
+We chose option 3.1.a, where everything stays in the same panel instead of opening the settings window, so the instructor has easier access to enabling/disabling these common features. The buttons, when clicked, will simply be enable/disable buttons, so only one artboard was used. Also, this was moved to be under the chat for the same non-obstruction feature as before.
+
+.. image:: mockups/3_1.png
+    :width: 600
+
+:download:`Download Source File <./mockups/3_1.xd>`.
 
 Video Summary
 **************
+
+
+Citations
+**********
+.. [1] `Why Aren't You Zooming? The Fear And How To Cope With It. <https://blog.zoom.us/arent-zooming-yet-fear-cope/>`_
+.. [2] `How to Stop Interrupting People in Virtual Meetings <https://www.linkedin.com/business/learning/blog/career-success-tips/how-to-stop-interrupting-people-in-virtual-meetings>`_
+.. [3] `It’s Not Just You: In Online Meetings, Many Women Can’t Get a Word In <https://www.nytimes.com/2020/04/14/us/zoom-meetings-gender.html>`_
+.. [4] `When should you mute yourself during a video call? <https://zapier.com/blog/when-to-mute-video-calls/>`_
