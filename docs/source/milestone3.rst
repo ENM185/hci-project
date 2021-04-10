@@ -175,11 +175,24 @@ Detailed Designs
 
 1.1: Instructor able to read anonymous questions
 ---------------------------------------------------
+We based the following mockup on the first design option (1.1.a), as it is the simplest solution, easiest to use for users already familiar with Zoom, and does not increase the clutter of the interface which already has many separate windows. The new chat window resembles the existing Zoom chat window almost exactly with the exception of a checkbox for sending messages anonymously. The professor also has configuration menu that is accessible by clicking the ellipsis button above chat input which allows for enabling and disabling of anonymous chat messages (seen in the second image below). As discussed previously, anonymous chat messages will provide more opportunity for participation especially from shy or anxious Zoom users.
 
+.. image:: mockups/1_1_1.png
+    :width: 600
+
+.. image:: mockups/1_1_2.png
+    :width: 600
+
+:download:`Download Source File <./mockups/1_1.xd>`.
 
 1.2: Students able to send anonymous questions
 ------------------------------------------------
+We based this student view mockup on the third design option (1.2.c) as it matches the professor view chosen in the previous sections, providing consistency across all types of users. As previously noted the new chat window is almost identical to the existing Zoom chat window with the exception of a checkbox for sending messages anonymously.
 
+.. image:: mockups/1_2.png
+    :width: 600
+
+:download:`Download Source File <./mockups/1_2.xd>`.
 
 2.1: Instructor able to view queue questions
 ------------------------------------------------
