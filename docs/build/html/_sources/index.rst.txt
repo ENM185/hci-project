@@ -11,6 +11,7 @@ Welcome to Lightning-Sharks HCI Term Project's documentation!
    :caption: Contents:
 
    proposal
+   milestone3
    
 Indices and tables
 ==================

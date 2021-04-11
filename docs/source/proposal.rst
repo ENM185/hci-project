@@ -1,5 +1,5 @@
 Milestone 2
-========
+===========
 
 Milestone 2 Proposal for the Lightning Sharks Team Proposal. By Josh Weintraub, Eric Miller, Alec Oortman, Alexander Costa, and Daniel Grotch
 
@@ -80,6 +80,10 @@ Proposed Solutions
 
 Video Proposal
 ***************
-:Video Proposal: `Link to Video Proposal and explanation <https://youtu.be/0G2Vg3iO_Qo>`__
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/0G2Vg3iO_Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 
 .. [1] A "Click Here" Type Button will appear randomly for a brief period where the student will need to click in order to get attendance credit
