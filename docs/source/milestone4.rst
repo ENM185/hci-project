@@ -3,7 +3,17 @@ Milestone 4
 
 Final Prototype Proposal for the Lightning Sharks Team Proposal. By Josh Weintraub, Eric Miller, Alec Oortman, Alexander Costa, and Daniel Grotch
 
-**Note**: With approval from Dr. Cotterell, we removed the tiered point system from our project.
+Prototypes
+***********
+
+1. Instructor
+--------------
+
+.. raw:: html
+
+    <video width="400" controls>
+        <source src="prototype/instructor\ demo.mp4" type="video/mov">
+    </video>
 
 Research Question and Methodology
 **********************************
