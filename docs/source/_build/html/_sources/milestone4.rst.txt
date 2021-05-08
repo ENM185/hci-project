@@ -9,10 +9,45 @@ Prototypes
 1. Instructor
 --------------
 
+.. image:: prototypes/instructor.png
+    :width: 600
+
+:download:`Download Source File <./prototypes/instructor.xd>`.
+
+:User Story 1.1: **As a professor, I want to be able answer a series of anonymous questions from my students, so that I may interact with them without putting them in the spotlight.** We addressed this by including this series of questions in the usual chat, in order to provide the instructor with a simple, known way of finding and answering these questions. The auto animations simulate interaction between the student and instructor.
+
+:User Story 2.1: **As a professor, I want to see a queue of questions so that I can make it easier for students virtual and physical to solicit input on class subjects without talking over each other or asking repetitive questions that may arise from inability to properly converse between in-person and virtual-students.** We addressed this with a new button at the bottom of the screen called "queue" that allows the instructor to open up a queue. When students are in the queue, the instructor can see who is in the queue, go through the queue, and easily see the student at the front. Their video shows in the same way it would in the main panel so the instructor can see whom they're interacting with.
+
+:User Story 2.2: ****
+
+:User Story 3.1: **As a professor, I want to have a dedicated panel (a sort of "landing page" component) for these new options so I can easily enable/disable them and adjust their settings from one place.** We actually went off of the original user story, and integrated the settings into the features themselves, as not to make the new settings seem out of place. In the chat, within the already-existing options menu, the instructor can enable/disable automatic questions. This makes it simple for the instructor to find the setting (as it's where the instructor would expect it if they were already familiar with previous Zoom versions). Similarly, we included the mute options within the queue, rather than in a separate panel. This allows the instructor to easily control the settings immediately when needed, without opening up separate menus.
+
+Demo:
+<<<<<
+
 .. raw:: html
 
     <video width="400" controls>
-        <source src="prototype/instructor\ demo.mp4" type="video/mov">
+        <source src="_static/instructor demo.mov" type="video/mp4">
+    </video>
+
+2. Student
+-----------
+
+.. image:: prototypes/student.png
+    :width: 600
+
+:download:`Download Source File <./prototypes/student.xd>`.
+
+:User Story 1.2: ****
+
+Demo:
+<<<<<
+
+.. raw:: html
+
+    <video width="400" controls>
+        <source src="_static/Prototype-Student-Demo.mp4" type="video/mp4">
     </video>
 
 Research Question and Methodology
